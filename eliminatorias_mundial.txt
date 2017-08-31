@@ -1,0 +1,47 @@
+EQUIPO A
+Dinamarca
+Senegal
+Uruguay
+Francia
+
+EQUIPO B
+España
+Paraguay
+Sudafrica
+Eslovenia
+
+EQUIPO C
+Brasil
+Turquia
+Costa Rica
+China
+
+EQUIPO D
+Corea del Sur
+Estados Unidos
+Portugal
+Polonia
+
+EQUIPO E
+Alemania
+Irlanda
+Camerun
+Arabia Saudita
+
+EQUIPO F
+Suecia
+Inglaterra
+Argentina
+Nigeria
+
+EQUIPO G
+Mexico
+Italia
+Croacia
+Ecuador
+
+EQUIPO H
+Japon
+Belgica
+Rusia
+Tunez
