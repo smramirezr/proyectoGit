@@ -1,47 +1,47 @@
 EQUIPO A
-Dinamarca[6]
+Dinamarca[9]
 Senegal[0]
-Uruguay[6]
+Uruguay[9]
 Francia[0]
 
 EQUIPO B
-España[6]
+España[9]
 Paraguay[0]
-Sudafrica[6]
+Sudafrica[9]
 Eslovenia[0]
 
 EQUIPO C
-Brasil[6]
+Brasil[9]
 Turquia[0]
-Costa Rica[6]
+Costa Rica[9]
 China[0]
 
 EQUIPO D
-Corea del Sur[6]
+Corea del Sur[9]
 Estados Unidos[0]
-Portugal[6]
+Portugal[9]
 Polonia[0]
 
 EQUIPO E
-Alemania[6]
+Alemania[9]
 Irlanda[0]
-Camerun[6]
+Camerun[9]
 Arabia Saudita[0]
 
 EQUIPO F
-Suecia[6]
+Suecia[9]
 Inglaterra[0]
-Argentina[6]
+Argentina[9]
 Nigeria[0]
 
 EQUIPO G
-Mexico[6]
+Mexico[9]
 Italia[0]
-Croacia[6]
+Croacia[9]
 Ecuador[0]
 
 EQUIPO H
-Japon[6]
+Japon[9]
 Belgica[0]
-Rusia[6]
+Rusia[9]
 Tunez[0]
